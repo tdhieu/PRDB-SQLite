@@ -1,0 +1,109 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace PRDB_SQLite
+{
+    public partial class Form_main : Form
+    {
+        public Form_main()
+        {
+            InitializeComponent();
+        }
+
+        private void Form_main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Load_TreeView()
+        {
+
+        }
+
+        private void Database_Click(object sender, EventArgs e)
+        {
+            xtraTabDatabase.Show();
+            xtraTabQuery.Hide();
+            tabSchema.Hide();
+        }
+
+        private void Schema_Click(object sender, EventArgs e)
+        {
+            xtraTabDatabase.Hide();
+            xtraTabQuery.Hide();
+            tabSchema.Show();
+        }
+
+        private void Query_Click(object sender, EventArgs e)
+        {
+            xtraTabDatabase.Hide();
+            xtraTabQuery.Show();
+            tabSchema.Hide();
+        }
+
+        private void newDatabaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveFileDialog DialogSave = new SaveFileDialog();                     // Hop thoai luu co so du lieu
+            DialogSave.DefaultExt = "db";                                                            // Phan mo rong mac dinh 
+            DialogSave.Filter = "Database file (*.db)|*.db|All files (*.*)|*.*";       // Them extension cho dialog
+            DialogSave.AddExtension = true;                                                      // Cho phep them vao phan mo rong
+            DialogSave.RestoreDirectory = true;                                                 // Tu dong phuc hoi duong dan cho lan sau
+            DialogSave.Title = "Select a target for new database";
+            DialogSave.InitialDirectory = @"C:\";
+            DialogSave.SupportMultiDottedExtensions = true;
+            if (DialogSave.ShowDialog() == DialogResult.OK)
+            {
+                DialogSave.OpenFile();
+            }
+            Load_TreeView();
+            DialogSave.Dispose();
+            DialogSave = null;
+        }
+
+        private void openDatabaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog DialogOpen = new OpenFileDialog();
+            DialogOpen.DefaultExt = "db";
+            DialogOpen.Filter = "Database file (*.db)|*.db";
+            DialogOpen.AddExtension = true;
+            DialogOpen.RestoreDirectory = true;
+            DialogOpen.Title = "Select an existing target";
+            DialogOpen.InitialDirectory = @"C:\";
+            DialogOpen.SupportMultiDottedExtensions = true;
+            if (DialogOpen.ShowDialog() == DialogResult.OK)
+            {
+                DialogOpen.OpenFile();
+            }
+            Load_TreeView();
+            DialogOpen.Dispose();
+        }
+
+        private void saveDatabaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void closeDatabaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+            this.Close();
+            this.Dispose();
+        }
+    }
+}

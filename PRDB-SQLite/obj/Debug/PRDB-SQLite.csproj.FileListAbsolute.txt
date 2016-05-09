@@ -1,0 +1,200 @@
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_ConnectingForm.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+C:\Users\duchieu\Desktop\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+C:\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Loading.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Connecting.resources
+C:\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Saving.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Loading.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Connecting.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Saving.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\SQLite.NET.dll
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.DLL
+D:\Learning Documents\Computer Science\Thesis\KLTN-Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\SQLite.NET.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.DLL
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Loading.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Connecting.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Saving.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+D:\IT & CS Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\SQLite.NET.dll
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.DLL
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Loading.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Connecting.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Saving.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+D:\Elearning Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe.config
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB-SQLite.pdb
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\PRDB-SQLite.exe
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\PRDB-SQLite.pdb
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\DevExpress.Data.v9.1.Compact.dll
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Compact.dll
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\DevExpress.Xpo.v9.1.Providers.Compact.dll
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\bin\Debug\SQLite.NET.dll
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_About.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteQuery.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteRelation.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteSchema.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_DeleteView.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Loading.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewQuery.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewRelation.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewSchema.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Connecting.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenQuery.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenRelation.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenSchema.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_OpenView.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_RenameDB.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputType.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_InputValue.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.Form_Main.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_NewView.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.PresentationLayer.Form_Saving.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB_SQLite.Properties.Resources.resources
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB-SQLite.csproj.GenerateResource.Cache
+D:\IT Documents\Computer Science\Thesis\KLTN - Tran Duc Hieu\Chuong Trinh Nguon\PRDB-SQLite (source code)\PRDB-SQLite\obj\Debug\PRDB-SQLite.exe.licenses
